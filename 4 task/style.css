@@ -1,0 +1,9 @@
+
+
+ul {
+	list-style-image: linear-gradient(to left bottom, red, blue);
+	
+}
+li {
+	list-style-image: linear-gradient(to left bottom, red, blue);
+}
